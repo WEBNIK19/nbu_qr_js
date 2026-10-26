@@ -18,15 +18,15 @@
     "national-bank-of-ukraine",
     "format-003"
   ],
-  "homepage": "https://github.com/opencartbot/nbu-qr-v3",
+  "homepage": "https://github.com/WEBNIK19/nbu_qr_js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/opencartbot/nbu-qr-v3"
+    "url": "https://github.com/WEBNIK19/nbu_qr_js"
   },
   "bugs": {
-    "url": "https://github.com/opencartbot/nbu-qr-v3/issues"
+    "url": "https://github.com/WEBNIK19/nbu_qr_js/issues"
   },
-  "author": "opencartbot",
+  "author": "WEBNIK19",
   "license": "MIT",
   "engines": {
     "node": ">=16"
