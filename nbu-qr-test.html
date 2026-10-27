@@ -237,10 +237,10 @@
             document.getElementById('errors').style.display = 'none';
             document.getElementById('results').style.display = 'block';
 
-            generateQRCodeSVG(url);
+            generateQRCodeSVG();
         }
 
-        function generateQRCodeSVG(url) {
+        function generateQRCodeSVG() {
             const container = document.getElementById('qrCode');
             container.innerHTML = '';
 

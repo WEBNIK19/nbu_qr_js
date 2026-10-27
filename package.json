@@ -1,6 +1,6 @@
 {
   "name": "nbu-qr-v3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pure JavaScript NBU (National Bank of Ukraine) QR Code payment generator v3 — format 003 (BCD service tag) with centred UAH logo overlay.",
   "main": "nbu-qr-v3.js",
   "files": [
