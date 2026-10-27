@@ -189,5 +189,10 @@ MIT — see [LICENSE](LICENSE).
 
 ## See also
 
+<<<<<<< HEAD
 * Original PHP library: https://github.com/opencartbot/nbu-qr-v3
 * NBU QR standard documentation: https://bank.gov.ua/ua/payments/use-qr
+=======
+* Original PHP library: [https://github.com/opencartbot/nbu-qr-v3](https://github.com/opencartbot/nbu-qr-v3)
+* NBU QR standard documentation: [https://bank.gov.ua/ua/payments/use-qr](https://bank.gov.ua/ua/payments/use-qr)
+>>>>>>> 02a72d62a665344ee59d1f34ee02e4abddc306f2
